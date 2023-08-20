@@ -2,7 +2,7 @@
 
 Minimal frontend to use my [belfiore-search API](https://github.com/giufus/belfiore-search).  
 
-![](belfiore-demo-640.gif)
+![](belfiore-demo-640x348.gif)
 
 I created  the project using the following commands:  
 ```
