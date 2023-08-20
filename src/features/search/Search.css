@@ -1,0 +1,14 @@
+
+form {
+    font-size: x-large
+}
+
+input {
+    font-size: x-large;
+    text-transform: uppercase;
+    width: 100%;
+}
+
+.search {
+    text-align: left;
+}
