@@ -1,4 +1,8 @@
-# React + TypeScript + Vite
+# Belfiore Search React/Redux
+
+Minimal frontend to use my [belfiore-search API](https://github.com/giufus/belfiore-search).  
+
+![](https://github.com/giufus/Your_GIF_Name.gif)
 
 I created  the project using the following commands:  
 ```
@@ -9,14 +13,12 @@ npm run dev
 ```
 
 We are going to use REDUX for state management in this project. 
-Let's install redux and react-redux using "The toolkit", and axios as http client:  
+Let's install redux and react-redux using "The toolkit" (and axios as http client, just in case I decide to use it later):  
 `npm install @reduxjs/toolkit react-redux axios` 
 
-The steps I followed are:
-- create the features/<slice_name>/slice.ts file to define the slice reducer logic
-- define the initialState
-- define the reducers (actions) that will update the state
+That's all.   
 
+# React + TypeScript + Vite 
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
