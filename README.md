@@ -12,7 +12,8 @@ npm install
 npm run dev
 ```
 
-We are going to use REDUX for state management in this project. 
+The goal of Redux is to provide scaleable and predictable state management, this is why I decided to use it here, even if the complexity of the project (3 components) doesn't require it.  
+
 Let's install redux and react-redux using "The toolkit" (and axios as http client, just in case I decide to use it later):  
 `npm install @reduxjs/toolkit react-redux axios` 
 
